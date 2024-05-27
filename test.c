@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
-int main() {
+main() {
 
   int first_number, second_number, sum;
     
@@ -16,3 +17,6 @@ int main() {
 
   return 110;
 }
+=======
+GGHhsd
+>>>>>>> 3ab021b52e9bda60d1b305c1991352a1e1b1c06d
